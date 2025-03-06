@@ -1,0 +1,18 @@
+int a=2;
+int b=10;
+if(a>=1){
+    a = a + 1;
+    printf(a);
+}
+else {
+    b = b + 100;
+    printf(b);
+}
+while(a<5)
+{
+a=a+1;
+if(a==4)
+{
+printf(b);
+}
+}
